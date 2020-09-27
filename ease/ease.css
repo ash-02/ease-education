@@ -6,13 +6,20 @@ body{
     margin: 0%;
     background-color: #272627;
 }
-header{
+/* header{
     margin: 0%;
     background-color: #32bb66;
     display: flex;
+    justify-self: self-end;
     justify-content: space-between;
     font-family: righteous;
     padding: 0cm 1cm 0cm 1cm;
+} */
+.ease_lft{
+    float: left;
+}
+.ease_rgt{
+    float: right;
 }
 img{    
     margin: 0%;
@@ -186,4 +193,26 @@ p{
   }
   .regi:hover:before {
     width: 100%;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: righteous;
+    padding: 0cm 1cm 0cm 1cm;
+    background-color: #32bb66;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li h1 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
   }
