@@ -2,17 +2,17 @@
 *{
     box-sizing: border-box;
 }
-header{
+/* header{
     margin: 0%;
     background-color: #32bb66;
     display: flex;
     justify-content: space-between;
     font-family: righteous;
     padding: 0cm 1cm 0cm 1cm;
-}
+} */
 h2{
     color: whitesmoke;
-    padding-left: 16.6cm;
+    /* padding-left: 16.6cm; */
     margin-bottom: 0cm;
     font-family: righteous;
     font-size: 1cm;

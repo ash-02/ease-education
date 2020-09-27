@@ -216,3 +216,7 @@ p{
     padding: 14px 16px;
     text-decoration: none;
   }
+
+  .center{
+      text-align: center;
+  }
