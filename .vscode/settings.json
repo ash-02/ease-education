@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "test/bin/python",
+    "python.pythonPath": "/Users/suriyakrishnan/.pyenv/versions/django@3.8.5/bin/python",
     "python.linting.enabled": false
 }

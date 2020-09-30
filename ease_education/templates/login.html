@@ -25,7 +25,9 @@
 </header>
 <div class="trouble">
     <form class="loginform">
-            <div class="input-container">
+        {% csrf_token %}
+        
+        <div class="input-container">
                 <input type="text" required=""><label>Username</label>
             </div>
             <div class="input-container">
