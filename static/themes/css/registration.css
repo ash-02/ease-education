@@ -114,3 +114,28 @@ form{
   .register:hover:before {
     width: 100%;
   }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: righteous;
+    padding: 0cm 1cm 0cm 1cm;
+    background-color: #32bb66;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li h1 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .center{
+      text-align: center;
+  }

@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "/Users/suriyakrishnan/.pyenv/versions/ease/bin/python",
+    "python.pythonPath": "test/bin/python",
     "python.linting.enabled": false
 }
